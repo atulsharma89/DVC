@@ -14,3 +14,13 @@ touch -gitignore
 ```
 touch README.md
 ```
+
+
+```
+pip install -r requirements.txt
+```
+
+
+'''
+pip list
+```
